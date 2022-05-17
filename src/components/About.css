@@ -1,0 +1,136 @@
+.about-junoon{
+    text-align: center;
+}
+.About{
+    padding-top: 3vh;
+    background-color: rgba(0, 0, 0, 0.898);
+    color: white;
+   
+  
+}
+.img-text{
+    padding-top: 10vh;
+    display: flex;
+    font-size: 2vw;
+    font-weight: lighter;
+}
+.common-numbers{
+ display: flex;
+ padding-left: 13vw;
+   
+}
+.Numbers{
+    display: flex;
+    padding-top: 4vh;
+}
+.competions{
+   font-size: 13vh;
+  
+}
+.Photowalks{
+   font-size: 13vh;
+}
+.works{
+  font-size: 13vh;
+}
+.text-data{
+    font-size: 3vh;
+    font-weight: lighter;
+    padding-top: 9vh;
+    padding-left: 2vw;
+}
+.Featured-shots{
+    margin-top: 30vh;
+    margin-bottom: 10vh;
+
+}
+.Feature-Text{
+text-align: center;
+padding-bottom: 5vh;
+}
+.Feature-images{
+    padding-top: 5vh;
+    display: flex;
+padding-left: 3vw;
+}
+.Feature-images img{
+    width: 26vw;
+    padding-left: 3vw;
+}
+.Footer{
+    background-color:rgba(11, 11, 11, 0.905);
+}
+.Footer-image{
+    padding-left: 38vw;
+padding-top: 10vh;
+width: 24vw;
+padding-bottom: 10vh;
+}
+*, *::before, *::after {
+     box-sizing:unset; 
+}
+
+.Best-Of-StoryGram{
+   padding-left: 35vw;
+    padding-top: 10vh;
+    padding-bottom: 4vh;
+}
+.image-storygram-text{
+    display: flex;
+     margin-bottom: 10vh;
+}
+.image-storygram{
+    width: 44vw;
+    padding-left: 4vw;
+}
+.storygram-text{
+    background-color:rgba(11, 11, 11, 0.905);
+    padding-top: 4vh;
+    text-align: center;
+    font-size: medium;
+    font-weight:400;
+    line-height: 5vh;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-bottom: 5vh;
+}
+.line-break{
+    line-height: 0.01vh;
+    background-color: aliceblue;
+font-size: 0vh;
+}
+.Date{
+    line-height: 3vh;
+    padding-top: 4vh;
+    font-weight: 500;
+    font-size: 2.5vh;
+    text-align: left;
+}
+a img {
+      opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+}
+a img:hover {
+  
+
+    opacity: 0.6;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}
+.Feature-images img {
+      opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+}
+.Feature-images img:hover {
+  
+
+    opacity: 0.6;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}
